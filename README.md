@@ -1,6 +1,5 @@
 # JavaScript To-Do List App (Beginner Project)
 
-This is a simple To-Do List application built using HTML, CSS, and JavaScript.  
 It allows users to add and delete tasks dynamically.
 
 
@@ -12,7 +11,6 @@ The goal of this project is to learn:
 - How to use event listeners
 - How to manipulate the DOM
 - How to build a simple interactive web application
-
 
 
 ## What I learned
@@ -33,6 +31,6 @@ The goal of this project is to learn:
 - Clicking delete removes the task
 
 
-## 🌍 Live Demo
+## Live Demo
 
 https://kevorkaroushian.github.io/javascript-todo-app-basics/
