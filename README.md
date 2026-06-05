@@ -30,7 +30,6 @@ The goal of this project is to learn:
 - Each task has a "Delete" button
 - Clicking delete removes the task
 
-
 ## Live Demo
 
 https://kevorkaroushian.github.io/javascript-todo-app-basics/
